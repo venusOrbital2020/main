@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "723356216783",
+    "firebase_url": "https://venus-e86ab.firebaseio.com",
+    "project_id": "venus-e86ab",
+    "storage_bucket": "venus-e86ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723356216783:android:643a72d7923f9bfcb376ba",
+        "android_client_info": {
+          "package_name": "com.example.venusprototype"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723356216783-cgntqfp409o7of11vrkvlrs6pknnusjd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd8jYSe2zWIcAPzjDC8kUcR6CZ92GSr54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723356216783-cgntqfp409o7of11vrkvlrs6pknnusjd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
